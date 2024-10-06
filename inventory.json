@@ -1,0 +1,74 @@
+[
+    {
+      "productId": "electronics_001",
+      "name": "Portable Bluetooth Speaker",
+      "price": 25,
+      "quantity": 60,
+      "description": "Compact speaker with excellent sound quality and long battery life.",
+      "category": "Electronics",
+      "imageUrl": "https://example.com/speaker.jpg"
+    },
+    {
+      "productId": "electronics_002",
+      "name": "Wireless Optical Mouse",
+      "price": 15,
+      "quantity": 100,
+      "description": "Smooth and ergonomic wireless mouse for laptops and desktops.",
+      "category": "Electronics",
+      "imageUrl": "https://example.com/mouse.jpg"
+    },
+    {
+      "productId": "food_001",
+      "name": "Organic Apples",
+      "price": 3,
+      "quantity": 200,
+      "description": "Fresh organic apples, crisp and juicy.",
+      "category": "Food",
+      "imageUrl": "https://example.com/apples.jpg"
+    },
+    {
+      "productId": "food_002",
+      "name": "Whole Wheat Bread",
+      "price": 2,
+      "quantity": 80,
+      "description": "Healthy whole wheat bread, perfect for sandwiches and toast.",
+      "category": "Food",
+      "imageUrl": "https://example.com/bread.jpg"
+    },
+    {
+      "productId": "furniture_001",
+      "name": "Ergonomic Office Chair",
+      "price": 75,
+      "quantity": 15,
+      "description": "Comfortable office chair with lumbar support.",
+      "category": "Furniture",
+      "imageUrl": "https://example.com/officechair.jpg"
+    },
+    {
+      "productId": "furniture_002",
+      "name": "Wooden Coffee Table",
+      "price": 50,
+      "quantity": 20,
+      "description": "Elegant wooden coffee table for the living room.",
+      "category": "Furniture",
+      "imageUrl": "https://example.com/coffeetable.jpg"
+    },
+    {
+      "productId": "skincare_001",
+      "name": "Hydrating Moisturizing Cream",
+      "price": 12,
+      "quantity": 100,
+      "description": "Rich moisturizing cream for daily skin hydration.",
+      "category": "Skincare",
+      "imageUrl": "https://example.com/moisturizer.jpg"
+    },
+    {
+      "productId": "skincare_002",
+      "name": "Sunscreen SPF 50",
+      "price": 15,
+      "quantity": 120,
+      "description": "High protection sunscreen with SPF 50, suitable for all skin types.",
+      "category": "Skincare",
+      "imageUrl": "https://example.com/sunscreen.jpg"
+    }
+  ]
